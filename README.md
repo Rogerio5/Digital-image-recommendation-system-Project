@@ -1,5 +1,3 @@
-# Digital-image-recommendation-system-Project
-
 # 🖼️ Digital Image Recommendation System
 
 ## 🧠 Sistema de Recomendação de Imagens com Deep Learning
