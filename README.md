@@ -20,6 +20,20 @@
 
 ---
 
+## 📋 Índice / Table of Contents
+
+- [📖 Descrição / Description](#📖-descrição--description)   
+- [⚙️ Funcionalidades / Features](#⚙️-funcionalidades--features)  
+- [🚀 Execução / Execution](#🚀-execução--execution)  
+- [🌐 Acesso / Access](#🌐-acesso--access)  
+- [🧰 Tecnologias / Technologies](#🧰-tecnologias--technologies)  
+- [👨‍💻 Desenvolvedor / Developer](#👨‍💻-desenvolvedor--developer)  
+- [📜 Licença / License](#📜-licença--license)  
+- [🏁 Conclusão / Conclusion](#🏁-conclusão--conclusion)
+
+---
+
+
 ## 📖 Descrição / Description
 
 **PT:**  
