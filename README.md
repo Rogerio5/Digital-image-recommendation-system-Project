@@ -35,10 +35,44 @@
 ## 📖 Descrição / Description
 
 **PT:**  
-Este projeto implementa um sistema de recomendação de imagens com base em **similaridade visual**, utilizando **Deep Learning**, **extração de embeddings com TensorFlow Hub**, e visualizações interativas com **ipywidgets** no Google Colab. O sistema permite buscar produtos semelhantes por aparência, ignorando dados textuais como marca ou preço.
+Este projeto demonstra como aplicar técnicas de visão computacional e aprendizado profundo para criar um sistema de recomendação de produtos com base em similaridade visual, utilizando o ambiente interativo do Google Colab. A aplicação permite:
+
+📁 Fazer upload de imagens diretamente no Colab para compor o catálogo
+
+🧠 Extrair vetores de características visuais com o modelo pré-treinado BIT (TensorFlow Hub)
+
+💾 Armazenar os embeddings em cache para acelerar futuras execuções
+
+🔍 Buscar produtos semelhantes por nome ou categoria textual
+
+🖼️ Exibir recomendações visuais com botões interativos e imagens lado a lado
+
+🗑️ Excluir ou restaurar itens do catálogo com controle manual
+
+📊 Gerar matriz de similaridade entre categorias com visualização em heatmap
+
+🎯 Explorar a distribuição dos produtos com gráficos PCA em 2D e 3D filtráveis por categoria
 
 **EN:**  
-This project implements an image recommendation system based on **visual similarity**, using **Deep Learning**, **embedding extraction via TensorFlow Hub**, and interactive visualizations with **ipywidgets** in Google Colab. The system finds visually similar products, ignoring textual data like brand or price.
+
+This project demonstrates how to apply computer vision and deep learning techniques to build a product recommendation system based on visual similarity, using the interactive environment of Google Colab. The application allows you to:
+
+📁 Upload images directly into Colab to build the product catalog
+
+🧠 Extract visual feature vectors using the pre-trained BIT model (TensorFlow Hub)
+
+💾 Cache embeddings to speed up future executions
+
+🔍 Search for similar products by name or textual category
+
+🖼️ Display visual recommendations with interactive buttons and side-by-side image comparisons
+
+🗑️ Manually remove or restore items from the catalog
+
+📊 Generate a category similarity matrix with heatmap visualization
+
+🎯 Explore product distribution using PCA plots in 2D and 3D, filterable by category
+
 
 ---
 
