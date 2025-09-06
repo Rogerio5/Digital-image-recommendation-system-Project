@@ -54,7 +54,6 @@ Este projeto demonstra como aplicar técnicas de visão computacional e aprendiz
 🎯 Explorar a distribuição dos produtos com gráficos PCA em 2D e 3D filtráveis por categoria
 
 **EN:**  
-
 This project demonstrates how to apply computer vision and deep learning techniques to build a product recommendation system based on visual similarity, using the interactive environment of Google Colab. The application allows you to:
 
 📁 Upload images directly into Colab to build the product catalog
