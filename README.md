@@ -68,7 +68,7 @@ This project implements an image recommendation system based on **visual similar
 ## 🌐 Acesso / Access
 
 - [🔗 Notebook no Google Colab](https://colab.research.google.com/github/Rogerio5/Digital-image-recommendation-system-Project/blob/main/Digital_image_recommendation_system.ipynb)  
-- [📁 Repositório GitHub](https://github.com/Rogerio5/Digital-image-recommendation-system-Project)
+- [Repositório GitHub / GitHub Repository](https://github.com/Rogerio5/Digital-image-recommendation-system-Project)
 
 ---
 
@@ -78,7 +78,7 @@ This project implements an image recommendation system based on **visual similar
   <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="TensorFlow" title="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
   <img align="left" alt="Google Colab" title="Google Colab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
-  <img align="left" alt="scikit-learn" title="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikit-learn/scikit-learn-original.svg"/>
+  <img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   <img align="left" alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
 </p>
