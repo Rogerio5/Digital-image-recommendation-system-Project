@@ -4,7 +4,7 @@
 
 ## 🧠 Sistema de Recomendação de Imagens com Deep Learning
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rogerio5/Digital-image-recommendation-system-Project/blob/main/Digital_image_recommendation_system.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://colab.research.google.com/drive/1u_RfKoHPQ0s3pWgf3Mybi_om8PSSDegq#scrollTo=gHcOKMEsItlt)
 
 ---
 
