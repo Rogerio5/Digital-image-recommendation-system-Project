@@ -4,7 +4,19 @@
 
 ## 🧠 Sistema de Recomendação de Imagens com Deep Learning
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://colab.research.google.com/drive/1u_RfKoHPQ0s3pWgf3Mybi_om8PSSDegq#scrollTo=gHcOKMEsItlt)
+
+![Capa do Projeto - ](Recomendação-imagem.png)
+
+
+---
+
+## 🏅 Badges
+
+- 📦 Tamanho do repositório:  
+  ![GitHub repo size](https://img.shields.io/repo-size/Rogerio5/Digital-image-recommendation-system-Project)
+
+- 📄 Licença do projeto:  
+  ![GitHub license](https://img.shields.io/github/license/Rogerio5/Digital-image-recommendation-system-Project)
 
 ---
 
@@ -18,15 +30,6 @@ This project implements an image recommendation system based on **visual similar
 
 ---
 
-## 🏅 Badges
-
-- 📦 Tamanho do repositório:  
-  ![GitHub repo size](https://img.shields.io/repo-size/Rogerio5/Digital-image-recommendation-system-Project)
-
-- 📄 Licença do projeto:  
-  ![GitHub license](https://img.shields.io/github/license/Rogerio5/Digital-image-recommendation-system-Project)
-
----
 
 ## ⚙️ Funcionalidades / Features
 
