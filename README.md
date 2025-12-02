@@ -3,7 +3,7 @@
 ## 🧠 Sistema de Recomendação de Imagens com Deep Learning
 
 Este projeto foi desenvolvido em Python utilizando Google Colab e Jupyter Notebook.  
- [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/Digital-image-recommendation-system-Project/blob/main/Digital_image_recommendation_system.ipynb
+ [Abrir no Google Colab](https://colab.research.google.com/github/Rogerio5/Digital-image-recommendation-system-Project/blob/main/Digital_image_recommendation_system_Project.ipynb
 ) 
 
 ![Capa do Projeto - ](Recomendação-imagem.png)
